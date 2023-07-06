@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+[https://jorgecardosodev.github.io/landingtomjazz/]
 
 Landing Page Moderna construída com HTML e CSS3.
 
