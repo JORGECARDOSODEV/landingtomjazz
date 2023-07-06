@@ -4,13 +4,14 @@
 
 # Sobre o projeto
 
-[https://jorgecardosodev.github.io/landingtomjazz/]
+[https://jorgecardosodev.github.io/landingtomjazz]
 
 Landing Page Moderna construída com HTML e CSS3.
 
 Uso de CSS: nth-child, @media querie, grid e flexbox.
 
 ## Layout: mobile e web (FIGMA)
+Abaixo lay-out criado no FIGMA:
 ![Web 1](https://github.com/JORGECARDOSODEV/landingtomjazz/blob/main/ppfigmat.png)
 
 # Tecnologias utilizadas
