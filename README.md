@@ -11,7 +11,7 @@ Landing Page Moderna construída com HTML e CSS3.
 Uso de CSS: nth-child, @media querie, grid e flexbox.
 
 ## Layout: mobile e web (FIGMA)[
-!(https://github.com/JORGECARDOSODEV/landingtomjazz/blob/main/ppfigmat.png)
+![Web 1](https://github.com/JORGECARDOSODEV/landingtomjazz/blob/main/ppfigmat.png)
 
 # Tecnologias utilizadas
 - HTML / CSS3 
