@@ -6,7 +6,7 @@
 
 [https://jorgecardosodev.github.io/landingtomjazz]
 
-Landing Page Moderna construída com HTML e CSS3.
+Landing Page Responsiva construída com HTML e CSS3.
 
 Uso de CSS: nth-child, @media querie, grid e flexbox.
 
